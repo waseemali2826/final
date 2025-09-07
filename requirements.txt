@@ -1,4 +1,5 @@
 fastapi
 uvicorn
-groq
 PyPDF2
+groq
+python-multipart
